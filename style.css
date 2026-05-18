@@ -4,8 +4,6 @@
    화면 2: answers.html — 답변 열람
    ============================================================ */
 
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;600;700;900&display=swap');
-
 /* ── CSS 변수 ── */
 :root {
   --bg:          #f5f4f0;
